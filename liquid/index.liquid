@@ -1,0 +1,20 @@
+<div class="text-center">
+	<h1>Curse of the Dead Gods</h1>
+
+	<p>Fansort for the video game <a href="https://curseofthedeadgods.fandom.com/wiki/Curse_of_the_Dead_Gods_Wiki">Curse of the Dead Gods</a>. For more fansorts, check out <a href="https://github.com/floofnoodlecode?tab=repositories&q=fansort&type=&language=&sort=name">my other repos</a>.</p>
+</div>
+
+<ul class="list-group">
+	{% for list in lists %}
+		{% assign props = list.props %}
+		<button id="{{list.id}}" class="list-group-item list-group-item-action d-flex align-items-center p-1">
+			{% if props %}
+				<img src="{{list.dir | concat: props.logo.src}}" alt="logo-{{list.id}}" width="64" height="64"
+					class="border bg-light" style="{{props.logo.style | default: ''}}">
+			{% endif %}
+			<div class="ms-2">
+				<h3 class="m-0 fw-normal">{{list.title | split: " - " | slice: 1 | join: " - "}}</h3>
+			</div>
+		</button>
+	{% endfor %}
+</ul>

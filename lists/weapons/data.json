@@ -1,0 +1,1790 @@
+{
+	"items": [
+		{
+			"name": "Machete",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Machete",
+				"img": {
+					"src": "assets/machete.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "No special effect",
+					"base damage": "15"
+				}
+			},
+			"attrs": {
+				"Slot": "Main",
+				"Type": "Sword"
+			}
+		},
+		{
+			"name": "War Macana",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/War_Macana",
+				"img": {
+					"src": "assets/war-macana.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Charged Attacks deal critical damage",
+					"base damage": "13"
+				}
+			},
+			"attrs": {
+				"Slot": "Main",
+				"Type": "Sword"
+			}
+		},
+		{
+			"name": "Sacrificial Macana",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Sacrificial_Macana",
+				"img": {
+					"src": "assets/sacrificial-macana.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Deals critical damage when only one enemy is nearby",
+					"base damage": "15"
+				}
+			},
+			"attrs": {
+				"Slot": "Main",
+				"Type": "Sword"
+			}
+		},
+		{
+			"name": "Sidewinder Sword",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Sidewinder_Sword",
+				"img": {
+					"src": "assets/sidewinder-sword.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Finishers cost no stamina",
+					"base damage": "15"
+				}
+			},
+			"attrs": {
+				"Slot": "Main",
+				"Type": "Sword"
+			}
+		},
+		{
+			"name": "Gusting Glaive",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Gusting_Glaive",
+				"img": {
+					"src": "assets/gusting-glaive.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "Charged Attacks send a wind slash that damages all enemies in its path",
+					"base damage": "15"
+				}
+			},
+			"attrs": {
+				"Slot": "Main",
+				"Type": "Sword"
+			}
+		},
+		{
+			"name": "Blazing Blade",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Blazing_Blade",
+				"img": {
+					"src": "assets/blazing-blade.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Fire Charged Attacks and Fire Combo finishers",
+					"base damage": "15"
+				}
+			},
+			"attrs": {
+				"Slot": "Main",
+				"Type": "Sword"
+			}
+		},
+		{
+			"name": "Abnegation, Xbeltz'aloc's Blade",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Abnegation,_Xbeltz%27aloc%27s_Blade",
+				"img": {
+					"src": "assets/abnegation-xbeltzalocs-blade.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Finishers and Charged Attacks interrupt enemies' attacks",
+					"base damage": "12"
+				}
+			},
+			"attrs": {
+				"Slot": "Main",
+				"Type": "Sword"
+			}
+		},
+		{
+			"name": "Sword of Conjunctivius",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Sword_of_Conjunctivius",
+				"img": {
+					"src": "assets/sword-of-conjunctivius.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "Any enemy attack instantly kills you (does not apply to traps)",
+					"base damage": "45"
+				}
+			},
+			"attrs": {
+				"Slot": "Main",
+				"Type": "Sword"
+			}
+		},
+		{
+			"name": "Moonblade, Night's Sword",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Moonblade,_Night%27s_Sword",
+				"img": {
+					"src": "assets/moonblade-nights-sword.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Charged Attacks trigger a powerful dash attack, damaging all crossed enemies",
+					"base damage": "15"
+				}
+			},
+			"attrs": {
+				"Slot": "Main",
+				"Type": "Sword"
+			}
+		},
+		{
+			"name": "Blunt Claws",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Blunt_Claws",
+				"img": {
+					"src": "assets/blunt-claws.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "No special effect",
+					"base damage": "12"
+				}
+			},
+			"attrs": {
+				"Slot": "Main",
+				"Type": "Claw"
+			}
+		},
+		{
+			"name": "Claws of Evisceration",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Claws_of_Evisceration",
+				"img": {
+					"src": "assets/claws-of-evisceration.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Deals critical damage against enemies under 30% health",
+					"base damage": "12"
+				}
+			},
+			"attrs": {
+				"Slot": "Main",
+				"Type": "Claw"
+			}
+		},
+		{
+			"name": "Steel-Tipped Talons",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Steel-Tipped_Talons",
+				"img": {
+					"src": "assets/steel-tipped-talons.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Deals critical damage for 3 seconds after a Perfect Dodge",
+					"base damage": "12"
+				}
+			},
+			"attrs": {
+				"Slot": "Main",
+				"Type": "Claw"
+			}
+		},
+		{
+			"name": "Warmonger Claws",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Warmonger_Claws",
+				"img": {
+					"src": "assets/warmonger-claws.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "+3% base damage per point ofConstitution",
+					"base damage": "12"
+				}
+			},
+			"attrs": {
+				"Slot": "Main",
+				"Type": "Claw"
+			}
+		},
+		{
+			"name": "Incandescent Claws",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Incandescent_Claws",
+				"img": {
+					"src": "assets/incandescent-claws.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Fire attacks",
+					"base damage": "13"
+				}
+			},
+			"attrs": {
+				"Slot": "Main",
+				"Type": "Claw"
+			}
+		},
+		{
+			"name": "Venomous Fangs",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Venomous_Fangs",
+				"img": {
+					"src": "assets/venomous-fangs.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Poison attacks",
+					"base damage": "12"
+				}
+			},
+			"attrs": {
+				"Slot": "Main",
+				"Type": "Claw"
+			}
+		},
+		{
+			"name": "\"Gambit\" Xbeltz'aloc's Gauntlet",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/%22Gambit%22_Xbeltz%27aloc%27s_Gauntlet",
+				"img": {
+					"src": "assets/gambit-xbeltzalocs-gauntlet.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Charged Attack land an additional Hit during the dash",
+					"base damage": "12"
+				}
+			},
+			"attrs": {
+				"Slot": "Main",
+				"Type": "Claw"
+			}
+		},
+		{
+			"name": "\"Disembowler\", Dread Claw",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/%22Disembowler%22,_Dread_Claw",
+				"img": {
+					"src": "assets/disembowler-dread-claw.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "Finishers add two spin attacks",
+					"base damage": "13"
+				}
+			},
+			"attrs": {
+				"Slot": "Main",
+				"Type": "Claw"
+			}
+		},
+		{
+			"name": "Stone Hammer",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Stone_Hammer",
+				"img": {
+					"src": "assets/stone-hammer.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "No special effect",
+					"base damage": "25"
+				}
+			},
+			"attrs": {
+				"Slot": "Main",
+				"Type": "Mace"
+			}
+		},
+		{
+			"name": "Slaver's Mace",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Slaver%27s_Mace",
+				"img": {
+					"src": "assets/slavers-mace.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Finishers deal critical damage",
+					"base damage": "23"
+				}
+			},
+			"attrs": {
+				"Slot": "Main",
+				"Type": "Mace"
+			}
+		},
+		{
+			"name": "Forge Hammer",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Forge_Hammer",
+				"img": {
+					"src": "assets/forge-hammer.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Deals critical damage against Burning Enemies",
+					"base damage": "22"
+				}
+			},
+			"attrs": {
+				"Slot": "Main",
+				"Type": "Mace"
+			}
+		},
+		{
+			"name": "Jewel Hammer",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Jewel_Hammer",
+				"img": {
+					"src": "assets/jewel-hammer.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Provides passive illumination",
+					"base damage": "25"
+				}
+			},
+			"attrs": {
+				"Slot": "Main",
+				"Type": "Mace"
+			}
+		},
+		{
+			"name": "Seeker's Mace",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Seeker%27s_Mace",
+				"img": {
+					"src": "assets/seekers-mace.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "+5% base damage per level of relics carried",
+					"base damage": "20"
+				}
+			},
+			"attrs": {
+				"Slot": "Main",
+				"Type": "Mace"
+			}
+		},
+		{
+			"name": "Spark Hammer",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Spark_Hammer",
+				"img": {
+					"src": "assets/spark-hammer.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "Lightning attacks",
+					"base damage": "20"
+				}
+			},
+			"attrs": {
+				"Slot": "Main",
+				"Type": "Mace"
+			}
+		},
+		{
+			"name": "Desperation, Xbeltz'aloc's Scepter",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Desperation,_Xbeltz%27aloc%27s_Scepter",
+				"img": {
+					"src": "assets/desperation-xbeltzalocs-scepter.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Base Damage increase by your percentage of missing HP",
+					"base damage": "20"
+				}
+			},
+			"attrs": {
+				"Slot": "Main",
+				"Type": "Mace"
+			}
+		},
+		{
+			"name": "Throwing Knives",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Throwing_Knives",
+				"img": {
+					"src": "assets/throwing-knives.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "No special effect",
+					"base damage": "16"
+				}
+			},
+			"attrs": {
+				"Slot": "Main",
+				"Type": "Throwing Weapon"
+			}
+		},
+		{
+			"name": "Hunting Axes",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Hunting_Axes",
+				"img": {
+					"src": "assets/hunting-axes.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "+100% damage against Weakened enemies",
+					"base damage": "13"
+				}
+			},
+			"attrs": {
+				"Slot": "Main",
+				"Type": "Throwing Weapon"
+			}
+		},
+		{
+			"name": "Silver Stars",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Silver_Stars",
+				"img": {
+					"src": "assets/silver-stars.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "Perfect Dodges trigger a volley of projectiles",
+					"base damage": "15"
+				}
+			},
+			"attrs": {
+				"Slot": "Main",
+				"Type": "Throwing Weapon"
+			}
+		},
+		{
+			"name": "Weighted Blades",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Weighted_Blades",
+				"img": {
+					"src": "assets/weighted-blades.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "Projectile damage increases based on the distance traveled before impact (up to +50%)",
+					"base damage": "14"
+				}
+			},
+			"attrs": {
+				"Slot": "Main",
+				"Type": "Throwing Weapon"
+			}
+		},
+		{
+			"name": "Evasive Knives",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Evasive_Knives",
+				"img": {
+					"src": "assets/evasive-knives.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "Automatic Dodge during Charged Attack",
+					"base damage": "16"
+				}
+			},
+			"attrs": {
+				"Slot": "Main",
+				"Type": "Throwing Weapon"
+			}
+		},
+		{
+			"name": "Chromatic Knives",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Chromatic_Knives",
+				"img": {
+					"src": "assets/chromatic-knives.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "Each combo deals a random type of elemental damage (Fire, Poison, or Lightning)",
+					"base damage": "11"
+				}
+			},
+			"attrs": {
+				"Slot": "Main",
+				"Type": "Throwing Weapon"
+			}
+		},
+		{
+			"name": "\"Heartseekers\", Teeth of Death",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Heartseekers,_Teeth_of_Death",
+				"img": {
+					"src": "assets/heartseekers-teeth-of-death.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "Projectiles have greater range and pierce through enemies",
+					"base damage": "16"
+				}
+			},
+			"attrs": {
+				"Slot": "Main",
+				"Type": "Throwing Weapon"
+			}
+		},
+		{
+			"name": "Webley Top-Break Revolver",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Webley_Top-Break_Revolver",
+				"img": {
+					"src": "assets/webley-top-break-revolver.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "No special effect",
+					"base damage": "20"
+				}
+			},
+			"attrs": {
+				"Slot": "Off-hand",
+				"Type": "Pistol"
+			}
+		},
+		{
+			"name": "Alchemist's Firestick",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Alchemist%27s_Firestick",
+				"img": {
+					"src": "assets/alchemists-firestick.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "Kills make enemies drop twice as much gold",
+					"base damage": "20"
+				}
+			},
+			"attrs": {
+				"Slot": "Off-hand",
+				"Type": "Pistol"
+			}
+		},
+		{
+			"name": "Colt .45 Rainmaker",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Colt_.45_Rainmaker",
+				"img": {
+					"src": "assets/colt-45-rainmaker.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "Sufficiently charged ranged attacks always trigger Perfect Shots",
+					"base damage": "22"
+				}
+			},
+			"attrs": {
+				"Slot": "Off-hand",
+				"Type": "Pistol"
+			}
+		},
+		{
+			"name": "LeMat Grape Shot Revolver",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/LeMat_Grape_Shot_Revolver",
+				"img": {
+					"src": "assets/lemat-grape-shot-revolver.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "Perfect Shots deal damage to all targets in a cone behind impact",
+					"base damage": "20"
+				}
+			},
+			"attrs": {
+				"Slot": "Off-hand",
+				"Type": "Pistol"
+			}
+		},
+		{
+			"name": "Smith & Wesson Schofield",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Smith_%26_Wesson_Schofield",
+				"img": {
+					"src": "assets/smith-wesson-schofield.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "Fire Perfect Shots and \"Off-hand Combo\"",
+					"base damage": "22"
+				}
+			},
+			"attrs": {
+				"Slot": "Off-hand",
+				"Type": "Pistol"
+			}
+		},
+		{
+			"name": "Dragon Sleeve Gun",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Dragon_Sleeve_Gun",
+				"img": {
+					"src": "assets/dragon-sleeve-gun.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "Poison attacks",
+					"base damage": "16"
+				}
+			},
+			"attrs": {
+				"Slot": "Off-hand",
+				"Type": "Pistol"
+			}
+		},
+		{
+			"name": "Crossbow of the Condemned",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Crossbow_of_the_Condemned",
+				"img": {
+					"src": "assets/crossbow-of-the-condemned.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "Slowly fires explosive shots, dealing damage in an area around impact",
+					"base damage": "30"
+				}
+			},
+			"attrs": {
+				"Slot": "Off-hand",
+				"Type": "Pistol"
+			}
+		},
+		{
+			"name": "Reaper",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Reaper",
+				"img": {
+					"src": "assets/reaper.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "Normal ranged attacks are ineffective; Perfect Shots deal double damage",
+					"base damage": "20"
+				}
+			},
+			"attrs": {
+				"Slot": "Off-hand",
+				"Type": "Pistol"
+			}
+		},
+		{
+			"name": "Worn Shield",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Worn_Shield",
+				"img": {
+					"src": "assets/worn-shield.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "No special effect",
+					"base damage": "35"
+				}
+			},
+			"attrs": {
+				"Slot": "Off-hand",
+				"Type": "Shield"
+			}
+		},
+		{
+			"name": "Ancient Buckler",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Ancient_Buckler",
+				"img": {
+					"src": "assets/ancient-buckler.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "After a parry, your main weapon deals critical damage for 2 seconds",
+					"base damage": "35"
+				}
+			},
+			"attrs": {
+				"Slot": "Off-hand",
+				"Type": "Shield"
+			}
+		},
+		{
+			"name": "Whispering Aegis",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Whispering_Aegis",
+				"img": {
+					"src": "assets/whispering-aegis.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "25% chance to automatically trigger a Parry",
+					"base damage": "35"
+				}
+			},
+			"attrs": {
+				"Slot": "Off-hand",
+				"Type": "Shield"
+			}
+		},
+		{
+			"name": "Barbed Shield",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Barbed_Shield",
+				"img": {
+					"src": "assets/barbed-shield.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Reflects 50% of a parried melee attack's damage to the attacker",
+					"base damage": "35"
+				}
+			},
+			"attrs": {
+				"Slot": "Off-hand",
+				"Type": "Shield"
+			}
+		},
+		{
+			"name": "Blazing Shield",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Blazing_Shield",
+				"img": {
+					"src": "assets/blazing-shield.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Fire attacks",
+					"base damage": "32"
+				}
+			},
+			"attrs": {
+				"Slot": "Off-hand",
+				"Type": "Shield"
+			}
+		},
+		{
+			"name": "Storm's Bulwark",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Storm%27s_Bulwark",
+				"img": {
+					"src": "assets/storms-bulwark.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "Lightning attacks; triggers a lightning strikeon parried melee enemies",
+					"base damage": "28"
+				}
+			},
+			"attrs": {
+				"Slot": "Off-hand",
+				"Type": "Shield"
+			}
+		},
+		{
+			"name": "Fulmination, Death's Rampart",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Fulmination,_Death%27s_Rampart",
+				"img": {
+					"src": "assets/fulmination-deaths-rampart.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Parrying reflects projectiles",
+					"base damage": "32"
+				}
+			},
+			"attrs": {
+				"Slot": "Off-hand",
+				"Type": "Shield"
+			}
+		},
+		{
+			"name": "\"Sunderer\", fist of doom",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/%22Sunderer,_fist_of_doom%22",
+				"img": {
+					"src": "assets/sunderer-fist-of-doom.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "Simple attack and off-hand combo deliver massive damage at the cost of 1 stamina point",
+					"base damage": "30"
+				}
+			},
+			"attrs": {
+				"Slot": "Off-hand",
+				"Type": "Shield"
+			}
+		},
+		{
+			"name": "Chipped Dagger",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Chipped_Dagger",
+				"img": {
+					"src": "assets/chipped-dagger.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "No special ability",
+					"base damage": "30"
+				}
+			},
+			"attrs": {
+				"Slot": "Off-hand",
+				"Type": "Dagger"
+			}
+		},
+		{
+			"name": "Ceremonial Dagger",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Ceremonial_Dagger",
+				"img": {
+					"src": "assets/ceremonial-dagger.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "+3% base damage per point ofPerception",
+					"base damage": "27"
+				}
+			},
+			"attrs": {
+				"Slot": "Off-hand",
+				"Type": "Dagger"
+			}
+		},
+		{
+			"name": "Duelist's Shiv",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Duelist%27s_Shiv",
+				"img": {
+					"src": "assets/duelists-shiv.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Evading an attack with the Off-hand Combo fully Restores stamina",
+					"base damage": "30"
+				}
+			},
+			"attrs": {
+				"Slot": "Off-hand",
+				"Type": "Dagger"
+			}
+		},
+		{
+			"name": "Malicious Skewer",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Malicious_Skewer",
+				"img": {
+					"src": "assets/malicious-skewer.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Deals critical damage against Weakened enemies",
+					"base damage": "24"
+				}
+			},
+			"attrs": {
+				"Slot": "Off-hand",
+				"Type": "Dagger"
+			}
+		},
+		{
+			"name": "Obsidian Stiletto",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Obsidian_Stiletto",
+				"img": {
+					"src": "assets/obsidian-stiletto.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "+50% damage for each element (Fire, Poison, Lightning) that afflicts the enemies hit",
+					"base damage": "24"
+				}
+			},
+			"attrs": {
+				"Slot": "Off-hand",
+				"Type": "Dagger"
+			}
+		},
+		{
+			"name": "Serpent Blade",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Serpent_Blade",
+				"img": {
+					"src": "assets/serpent-blade.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Poison attacks",
+					"base damage": "24"
+				}
+			},
+			"attrs": {
+				"Slot": "Off-hand",
+				"Type": "Dagger"
+			}
+		},
+		{
+			"name": "Heart render, the Flesh Eater",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Heart_render,_the_Flesh_Eater",
+				"img": {
+					"src": "assets/heart-render-the-flesh-eater.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Each kill permanently increases base damage by 5% (up to 200%)",
+					"base damage": "15"
+				}
+			},
+			"attrs": {
+				"Slot": "Off-hand",
+				"Type": "Dagger"
+			}
+		},
+		{
+			"name": "Braided Whip",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Braided_Whip",
+				"img": {
+					"src": "assets/braided-whip.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "No special effect",
+					"base damage": "36"
+				}
+			},
+			"attrs": {
+				"Slot": "Off-hand",
+				"Type": "Whip"
+			}
+		},
+		{
+			"name": "Barbed Whip",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Barbed_Whip",
+				"img": {
+					"src": "assets/barbed-whip.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "Charged attacks weaken enemies",
+					"base damage": "29"
+				}
+			},
+			"attrs": {
+				"Slot": "Off-hand",
+				"Type": "Whip"
+			}
+		},
+		{
+			"name": "Bone Shard Whip",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Bone_Shard_Whip",
+				"img": {
+					"src": "assets/bone-shard-whip.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "Kills make attacks deal critical damage for 3 seconds",
+					"base damage": "32"
+				}
+			},
+			"attrs": {
+				"Slot": "Off-hand",
+				"Type": "Whip"
+			}
+		},
+		{
+			"name": "Desperation's Flail",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Desperation%27s_Flail",
+				"img": {
+					"src": "assets/desperations-flail.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "+15% damage per missing point of stamina",
+					"base damage": "28"
+				}
+			},
+			"attrs": {
+				"Slot": "Off-hand",
+				"Type": "Whip"
+			}
+		},
+		{
+			"name": "Stinger Lash",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Stinger_Lash",
+				"img": {
+					"src": "assets/stinger-lash.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "Poison attacks",
+					"base damage": "29"
+				}
+			},
+			"attrs": {
+				"Slot": "Off-hand",
+				"Type": "Whip"
+			}
+		},
+		{
+			"name": "Storm Lash",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Storm_Lash",
+				"img": {
+					"src": "assets/storm-lash.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "Lightning attacks",
+					"base damage": "29"
+				}
+			},
+			"attrs": {
+				"Slot": "Off-hand",
+				"Type": "Whip"
+			}
+		},
+		{
+			"name": "\"Flagellation\", Mistress of Agony",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/%22Flagellation%22,_Mistress_of_Agony",
+				"img": {
+					"src": "assets/flagellation-mistress-of-agony.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "+50% damage while in the darkness",
+					"base damage": "29"
+				}
+			},
+			"attrs": {
+				"Slot": "Off-hand",
+				"Type": "Whip"
+			}
+		},
+		{
+			"name": "\"Cataclysm\", T'amok's Fury",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/%22Cataclysm%22,_T%27amok%27s_Fury",
+				"img": {
+					"src": "assets/cataclysm-tamoks-fury.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "Fire attacks; hits on characters have a 50% chance to summon a fire jewel",
+					"base damage": "36"
+				}
+			},
+			"attrs": {
+				"Slot": "Off-hand",
+				"Type": "Whip"
+			}
+		},
+		{
+			"name": "Primitive Spear",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Primitive_Spear",
+				"img": {
+					"src": "assets/primitive-spear.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "No special effect",
+					"base damage": "30"
+				}
+			},
+			"attrs": {
+				"Slot": "Two-handed",
+				"Type": "Spear"
+			}
+		},
+		{
+			"name": "Barbed Javelin",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Barbed_Javelin",
+				"img": {
+					"src": "assets/barbed-javelin.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Finishers weaken enemies",
+					"base damage": "24"
+				}
+			},
+			"attrs": {
+				"Slot": "Two-handed",
+				"Type": "Spear"
+			}
+		},
+		{
+			"name": "Feathered Spear",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Feathered_Spear",
+				"img": {
+					"src": "assets/feathered-spear.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Each kill restores 1 more stamina",
+					"base damage": "27"
+				}
+			},
+			"attrs": {
+				"Slot": "Two-handed",
+				"Type": "Spear"
+			}
+		},
+		{
+			"name": "Windfury Pike",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Windfury_Pike",
+				"img": {
+					"src": "assets/windfury-pike.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Charged Attacks Hit 3 times instead of 2",
+					"base damage": "24"
+				}
+			},
+			"attrs": {
+				"Slot": "Two-handed",
+				"Type": "Spear"
+			}
+		},
+		{
+			"name": "Scorpion Spear",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Scorpion_Spear",
+				"img": {
+					"src": "assets/scorpion-spear.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Poison attacks",
+					"base damage": "22"
+				}
+			},
+			"attrs": {
+				"Slot": "Two-handed",
+				"Type": "Spear"
+			}
+		},
+		{
+			"name": "Storm's Point",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Storm%27s_Point",
+				"img": {
+					"src": "assets/storms-point.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "Lightning Attacks",
+					"base damage": "22"
+				}
+			},
+			"attrs": {
+				"Slot": "Two-handed",
+				"Type": "Spear"
+			}
+		},
+		{
+			"name": "Vengeance, Xbeltz'aloc's Spirit",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Vengeance,_Xbeltz%27aloc%27s_Spirit",
+				"img": {
+					"src": "assets/vengeance-xbeltzalocs-spirit.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "A Dark Riposte occurs after a successful Parry",
+					"base damage": "24"
+				}
+			},
+			"attrs": {
+				"Slot": "Two-handed",
+				"Type": "Spear"
+			}
+		},
+		{
+			"name": "Bloodstake, Hunter's Torment",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Bloodstake,_Hunter%27s_Torment",
+				"img": {
+					"src": "assets/bloodstake-hunters-torment.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Finishers throw the spear, piercing through all enemies",
+					"base damage": "30"
+				}
+			},
+			"attrs": {
+				"Slot": "Two-handed",
+				"Type": "Spear"
+			}
+		},
+		{
+			"name": "Broken Longsword",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Broken_Longsword",
+				"img": {
+					"src": "assets/broken-longsword.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "No special effect",
+					"base damage": "45"
+				}
+			},
+			"attrs": {
+				"Slot": "Two-handed",
+				"Type": "Heavy Weapon"
+			}
+		},
+		{
+			"name": "Primal Hammer",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Primal_Hammer",
+				"img": {
+					"src": "assets/primal-hammer.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Charged attacks weaken enemies",
+					"base damage": "45"
+				}
+			},
+			"attrs": {
+				"Slot": "Two-handed",
+				"Type": "Heavy Weapon"
+			}
+		},
+		{
+			"name": "Titan Slayer",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Titan_Slayer",
+				"img": {
+					"src": "assets/titan-slayer.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Deals critical damage against Elites, Champions, and Bosses",
+					"base damage": "40"
+				}
+			},
+			"attrs": {
+				"Slot": "Two-handed",
+				"Type": "Heavy Weapon"
+			}
+		},
+		{
+			"name": "Broadsword of the Knight",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Broadsword_of_the_Knight",
+				"img": {
+					"src": "assets/broadsword-of-the-knight.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "The second attack and the finisher always deal a critical hit",
+					"base damage": "50"
+				}
+			},
+			"attrs": {
+				"Slot": "Two-handed",
+				"Type": "Heavy Weapon"
+			}
+		},
+		{
+			"name": "Jaguar Hammer",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Jaguar_Hammer",
+				"img": {
+					"src": "assets/jaguar-hammer.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Fire attacks",
+					"base damage": "40"
+				}
+			},
+			"attrs": {
+				"Slot": "Two-handed",
+				"Type": "Heavy Weapon"
+			}
+		},
+		{
+			"name": "Sky Hammer",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Sky_Hammer",
+				"img": {
+					"src": "assets/sky-hammer.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "Lightning attacks",
+					"base damage": "36"
+				}
+			},
+			"attrs": {
+				"Slot": "Two-handed",
+				"Type": "Heavy Weapon"
+			}
+		},
+		{
+			"name": "Stone Breaker",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Stone_Breaker",
+				"img": {
+					"src": "assets/stone-breaker.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Charged attacks strike 3 times in a line behind the point of impact",
+					"base damage": "45"
+				}
+			},
+			"attrs": {
+				"Slot": "Two-handed",
+				"Type": "Heavy Weapon"
+			}
+		},
+		{
+			"name": "Blood Weeper, Life Seeper Macana",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Blood_Weeper,_Life_Seeper_Macana",
+				"img": {
+					"src": "assets/blood-weeper-life-seeper-macana.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Attacks steal 10% HP",
+					"base damage": "36"
+				}
+			},
+			"attrs": {
+				"Slot": "Two-handed",
+				"Type": "Heavy Weapon"
+			}
+		},
+		{
+			"name": "\"K'etyaam yaan\", Witch's Crook",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/%22K%27etyaam_yaan%22,_Witch%27s_Crook",
+				"img": {
+					"src": "assets/ketyaam-yaan-witchs-crook.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "Charged Attacks cast a volley of Dark projectiles",
+					"base damage": "40"
+				}
+			},
+			"attrs": {
+				"Slot": "Two-handed",
+				"Type": "Heavy Weapon"
+			}
+		},
+		{
+			"name": "Stiff Bow",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Stiff_Bow",
+				"img": {
+					"src": "assets/stiff-bow.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "No special effect",
+					"base damage": "15"
+				}
+			},
+			"attrs": {
+				"Slot": "Two-handed",
+				"Type": "Bow"
+			}
+		},
+		{
+			"name": "Keen Bow",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Keen_Bow",
+				"img": {
+					"src": "assets/keen-bow.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Fully Charged Shots inflict 50% more damage per character hit",
+					"base damage": "13"
+				}
+			},
+			"attrs": {
+				"Slot": "Two-handed",
+				"Type": "Bow"
+			}
+		},
+		{
+			"name": "Crippling Bow",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Crippling_Bow",
+				"img": {
+					"src": "assets/crippling-bow.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Fully Charged Shots weaken enemies",
+					"base damage": "13"
+				}
+			},
+			"attrs": {
+				"Slot": "Two-handed",
+				"Type": "Bow"
+			}
+		},
+		{
+			"name": "Swift Bow",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Swift_Bow",
+				"img": {
+					"src": "assets/swift-bow.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Kills increase movement speed for 5 seconds",
+					"base damage": "15"
+				}
+			},
+			"attrs": {
+				"Slot": "Two-handed",
+				"Type": "Bow"
+			}
+		},
+		{
+			"name": "Jaguar Bow",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Jaguar_Bow",
+				"img": {
+					"src": "assets/jaguar-bow.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Fire attacks",
+					"base damage": "13"
+				}
+			},
+			"attrs": {
+				"Slot": "Two-handed",
+				"Type": "Bow"
+			}
+		},
+		{
+			"name": "Serpent Bow",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Serpent_Bow",
+				"img": {
+					"src": "assets/serpent-bow.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "Poison attacks",
+					"base damage": "11"
+				}
+			},
+			"attrs": {
+				"Slot": "Two-handed",
+				"Type": "Bow"
+			}
+		},
+		{
+			"name": "Annihilation, Bow of Madness",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Annihilation,_Bow_of_Madness",
+				"img": {
+					"src": "assets/annihilation-bow-of-madness.png",
+					"width": 202,
+					"height": 202
+				},
+				"fields": {
+					"ability": "Perfect shots explode on impact in a Dark blast, dealing damage to ALL characters around",
+					"base damage": "15"
+				}
+			},
+			"attrs": {
+				"Slot": "Two-handed",
+				"Type": "Bow"
+			}
+		},
+		{
+			"name": "\"Effulgence\", Harbinger of Yaatz",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/%22Effulgence%22,_Harbinger_of_Yaatz",
+				"img": {
+					"src": "assets/effulgence-harbinger-of-yaatz.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "Lightning attacks; special Dodge after a shot sends an additional arrow toward closest enemy",
+					"base damage": "13"
+				}
+			},
+			"attrs": {
+				"Slot": "Two-handed",
+				"Type": "Bow"
+			}
+		},
+		{
+			"name": "Pirate Bombs",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Pirate_Bombs",
+				"img": {
+					"src": "assets/pirate-bombs.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "No special effect",
+					"base damage": "30"
+				}
+			},
+			"attrs": {
+				"Slot": "Two-handed",
+				"Type": "Bomb"
+			}
+		},
+		{
+			"name": "Crackling Grenades",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Crackling_Grenades",
+				"img": {
+					"src": "assets/crackling-grenades.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "Thrown bombs deal additional damage along their path",
+					"base damage": "30"
+				}
+			},
+			"attrs": {
+				"Slot": "Two-handed",
+				"Type": "Bomb"
+			}
+		},
+		{
+			"name": "Sticks of Dynamite",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Sticks_of_Dynamite",
+				"img": {
+					"src": "assets/sticks-of-dynamite.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "Kills trigger a large blast that weakens all nearby enemies",
+					"base damage": "30"
+				}
+			},
+			"attrs": {
+				"Slot": "Two-handed",
+				"Type": "Bomb"
+			}
+		},
+		{
+			"name": "Incendiary Bombs",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Incendiary_Bombs",
+				"img": {
+					"src": "assets/incendiary-bombs.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "Fire attacks",
+					"base damage": "27"
+				}
+			},
+			"attrs": {
+				"Slot": "Two-handed",
+				"Type": "Bomb"
+			}
+		},
+		{
+			"name": "Fuming Skulls",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Fuming_Skulls",
+				"img": {
+					"src": "assets/fuming-skulls.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "Poison attacks",
+					"base damage": "24"
+				}
+			},
+			"attrs": {
+				"Slot": "Two-handed",
+				"Type": "Bomb"
+			}
+		},
+		{
+			"name": "Lightning Orbs",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/Lightning_Orbs",
+				"img": {
+					"src": "assets/lightning-orbs.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "Lightning attacks",
+					"base damage": "24"
+				}
+			},
+			"attrs": {
+				"Slot": "Two-handed",
+				"Type": "Bomb"
+			}
+		},
+		{
+			"name": "\"Devouring Orbs\", Bombs of the Void",
+			"props": {
+				"url": "https://curseofthedeadgods.fandom.com/wiki/%22Devouring_Orbs%22,_Bombs_of_the_Void",
+				"img": {
+					"src": "assets/devouring-orbs-bombs-of-the-void.png",
+					"width": 180,
+					"height": 210
+				},
+				"fields": {
+					"ability": "Charged attacks launch a single void bomb, attracting all nearby enemies before exploding",
+					"base damage": "30"
+				}
+			},
+			"attrs": {
+				"Slot": "Two-handed",
+				"Type": "Bomb"
+			}
+		}
+	]
+}
