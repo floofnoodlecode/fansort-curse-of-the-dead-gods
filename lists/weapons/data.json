@@ -238,7 +238,7 @@
 					"height": 210
 				},
 				"fields": {
-					"ability": "+3% base damage per point ofConstitution",
+					"ability": "+3% base damage per point of Constitution",
 					"base damage": "12"
 				}
 			},
@@ -846,7 +846,7 @@
 					"height": 210
 				},
 				"fields": {
-					"ability": "Lightning attacks; triggers a lightning strikeon parried melee enemies",
+					"ability": "Lightning attacks; triggers a lightning strike\non parried melee enemies",
 					"base damage": "28"
 				}
 			},
@@ -922,7 +922,7 @@
 					"height": 202
 				},
 				"fields": {
-					"ability": "+3% base damage per point ofPerception",
+					"ability": "+3% base damage per point of Perception",
 					"base damage": "27"
 				}
 			},
